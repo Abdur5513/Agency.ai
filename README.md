@@ -1,4 +1,5 @@
-
+# acgenci.ai
+A responsive frontend website built with HTML, CSS, JavaScript, and React.js (Vite). Run `npm install` and `npm run dev` to launch locally.
 <img width="1611" height="928" alt="image" src="https://github.com/user-attachments/assets/8f00ab77-dede-4266-a670-ff1530e3d82b" />
 <img width="1408" height="657" alt="image" src="https://github.com/user-attachments/assets/5569a855-c266-4ded-88c2-af96af44ef71" />
 <img width="1585" height="850" alt="image" src="https://github.com/user-attachments/assets/304e2921-79cf-4248-8015-65423a62d065" />
